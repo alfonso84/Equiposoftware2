@@ -1,0 +1,1 @@
+web: gunicorn rusia_site.wsgi
